@@ -1,0 +1,171 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* Nav Bar */
+#navbar{
+     
+    /* background-color:rgb(188, 226, 226) ; */
+
+}
+.nav-color{
+    color: #846219;
+    font-weight: 300;
+    font-size: 16.2px;
+    line-height: 19px;
+}
+
+#titulo-marca{
+    font-weight: 700;
+    font-size: 41.2px;
+    line-height: 48px;  
+}
+#titulo-descricao{
+    letter-spacing: 5.4px;
+}
+
+#navbar-itens .navbar-nav{
+    display: flex;
+    justify-content: end;
+    width: 100%;
+}
+
+#navbar-itens .nav-item{
+    margin: 0 2em;
+}
+
+.bi-three-dots-vertical{
+    color: #E2E0B8;
+}
+
+/* Corpo1 */
+
+.corpo-1{
+    background-color:#E9E9E9 ;
+    height: 900px;
+    
+}
+
+#conteudo-corpo-1{
+    margin-top: 20%;
+}
+
+.text-corpo-1{
+    color: #716565;
+    font-size: 82.2px;
+    line-height: 96px;
+    
+    font-weight: 700;
+    
+}
+
+
+/* Corpo 2 */
+.corpo-2{
+    background-color:#506FA9;
+    height: 1024px;
+    background-image: url("../img/Bitmap2.png");
+    background-repeat: no-repeat;
+    background-size: 1038px 689px;
+    background-position: 100% 8.1%;
+}
+
+#conteudo-corpo-2{
+    color: #FFFFFF;
+    font-weight: 300;
+    margin-left: 11.04%; 
+    margin-top: 25%;   
+}
+
+#titulo-corpo-2{
+    font-size: 69.2px;
+    width: 484px;
+    
+}
+
+p.text-corpo-2  {
+    font-size: 48.2px;
+    width: 493px;
+}
+
+h1.text-corpo-2{
+    width: 484px;
+}
+
+
+/* Rodapé */
+.rodape{
+    background-color: #E9E9E9;
+}
+
+.footer-text{
+    color: #716565;
+}
+
+.title-rodape{
+    font-size: 27.2px;
+    line-height: 32px;
+}
+
+a.footer-text{ 
+    text-decoration: underline #E9E9E9;   
+    font-size:16.2px ;
+    width: 100px;
+    line-height: 19px; 
+}
+
+a.footer-text:hover{
+    color: #887b7b;;
+}
+
+/*Responsividade dos Textos*/
+@media (max-width:991.9px) {
+
+    /* Corpo 1 */
+    .corpo-1{
+        height: 511px;
+    }
+
+    #conteudo-corpo-1{
+        margin-top: 0%;
+    }
+
+    .text-corpo-1{
+        font-size: 53.2px;
+        line-height: 62px;  
+    }
+
+    /* Corpo 2 */
+    .corpo-2{
+        background-color:#506FA9;
+        height: 568px;
+        background-image: url("../img/Bitmap2.png");
+        background-repeat: no-repeat;
+        background-size: 259px 172px;
+        background-position: 100% 80%;
+    }
+    
+
+    #titulo-corpo-2{
+        font-size: 41.2px;
+        line-height: 48px;
+        width: 288px;
+        margin-left: -36px;
+    }
+    
+    p.text-corpo-2  {
+        font-size: 26.2px;
+        line-height: 31px;
+        width: 293px;
+        margin-left: -36px;
+    }
+
+    /* rodape */
+    h2,h5.footer-text, li.item-rodape{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    
+}
