@@ -1,0 +1,52 @@
+[
+    {
+        "addressOne": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brazil",
+        "addressTwo": "Praça Mal. Âncora, 122 - Centro, Rio de Janeiro - RJ, 20021-200, Brazil",
+        "distance": 0.011921952761606592
+    },
+    {
+        "addressOne": "Praça Mal. Âncora, 122 - Centro, Rio de Janeiro - RJ, 20021-200, Brazil",
+        "addressTwo": "R. Dezenove de Fevereiro, 34 - Botafogo, Rio de Janeiro - RJ, 22280-030, Brazil",
+        "distance": 0.04988261769725114
+    },
+    {
+        "addressOne": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brazil",
+        "addressTwo": "R. Dezenove de Fevereiro, 34 - Botafogo, Rio de Janeiro - RJ, 22280-030, Brazil",
+        "distance": 0.05389910936592824
+    },
+    {
+        "addressOne": "R. Bilbao, 30 - Bangu, Rio de Janeiro - RJ, 21862-760, Brazil",
+        "addressTwo": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brazil",
+        "distance": 0.2916634115377906
+    },
+    {
+        "addressOne": "R. Bilbao, 30 - Bangu, Rio de Janeiro - RJ, 21862-760, Brazil",
+        "addressTwo": "R. Dezenove de Fevereiro, 34 - Botafogo, Rio de Janeiro - RJ, 22280-030, Brazil",
+        "distance": 0.2958483572926187
+    },
+    {
+        "addressOne": "R. Bilbao, 30 - Bangu, Rio de Janeiro - RJ, 21862-760, Brazil",
+        "addressTwo": "Praça Mal. Âncora, 122 - Centro, Rio de Janeiro - RJ, 20021-200, Brazil",
+        "distance": 0.3023710417746573
+    },
+    {
+        "addressOne": "Mountain View, CA 94043, USA",
+        "addressTwo": "R. Bilbao, 30 - Bangu, Rio de Janeiro - RJ, 21862-760, Brazil",
+        "distance": 99.05296357332625
+    },
+    {
+        "addressOne": "Mountain View, CA 94043, USA",
+        "addressTwo": "Av. Rio Branco, 1 - Centro, Rio de Janeiro - RJ, 20090-003, Brazil",
+        "distance": 99.3045737251207
+    },
+    {
+        "addressOne": "Mountain View, CA 94043, USA",
+        "addressTwo": "Praça Mal. Âncora, 122 - Centro, Rio de Janeiro - RJ, 20021-200, Brazil",
+        "distance": 99.31647023289905
+    },
+    {
+        "addressOne": "Mountain View, CA 94043, USA",
+        "addressTwo": "R. Dezenove de Fevereiro, 34 - Botafogo, Rio de Janeiro - RJ, 22280-030, Brazil",
+        "distance": 99.33114713923369
+    }
+]

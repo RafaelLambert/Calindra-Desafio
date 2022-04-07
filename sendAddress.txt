@@ -1,0 +1,47 @@
+[
+    {
+        "streetNumber": 1600,
+        "route": "Amphitheatre ",
+        "locality": "Mountain",
+        "administrativeAreaLevel1": "CA",
+        "administrativeAreaLevel2": "Santa Clara County",
+        "country": "US",
+        "postalCode": 94043
+    },
+    {
+        "streetNumber": 30,
+        "route": "Rua Bilbao",
+        "locality": "Bangu",
+        "administrativeAreaLevel1": "RJ",
+        "administrativeAreaLevel2": "Rio de Janeiro",
+        "country": "Brazil",
+        "postalCode": 21862760
+    },
+    {
+        "streetNumber": 1,
+        "route": "Av. Rio Branco",
+        "locality": "Centro",
+        "administrativeAreaLevel1": "RJ",
+        "administrativeAreaLevel2": "Rio de Janeiro",
+        "country": "Brasil",
+        "postalCode": 20090003
+    },
+    {
+        "streetNumber": 122,
+        "route": "Praça Mal. âncora",
+        "locality": "centro",
+        "administrativeAreaLevel1": "RJ",
+        "administrativeAreaLevel2": "Rio de Janeiro",
+        "country": "Brazil",
+        "postalCode": 20021200
+    },
+    {
+        "streetNumber": 34,
+        "route": "R. 19 de Fevereiro",
+        "locality": "Botafogo",
+        "administrativeAreaLevel1": "RJ",
+        "administrativeAreaLevel2": "Rio de Janeiro",
+        "country": "Brazil",
+        "postalCode": 20021200
+    }
+]
