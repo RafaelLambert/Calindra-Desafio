@@ -3,11 +3,7 @@
 }
 
 /* Nav Bar */
-#navbar{
-     
-    /* background-color:rgb(188, 226, 226) ; */
-
-}
+    /*Textos & icones & Backgorund*/
 .nav-color{
     color: #846219;
     font-weight: 300;
@@ -20,8 +16,22 @@
     font-size: 41.2px;
     line-height: 48px;  
 }
+
 #titulo-descricao{
     letter-spacing: 5.4px;
+}
+
+.bi-three-dots-vertical{
+    color: #E2E0B8;
+}
+
+    /* Ajustes de posições dos itens da Nav */
+#brand-nav{ 
+    margin-left: 3.68%;
+}
+
+#menu-nav{
+    margin-right: 4.44%;
 }
 
 #navbar-itens .navbar-nav{
@@ -34,16 +44,11 @@
     margin: 0 2em;
 }
 
-.bi-three-dots-vertical{
-    color: #E2E0B8;
-}
-
 /* Corpo1 */
-
+    /*Textos & icones & Backgorund*/
 .corpo-1{
     background-color:#E9E9E9 ;
     height: 900px;
-    
 }
 
 #conteudo-corpo-1{
@@ -54,13 +59,12 @@
     color: #716565;
     font-size: 82.2px;
     line-height: 96px;
-    
-    font-weight: 700;
-    
+    font-weight: 700;  
 }
 
 
 /* Corpo 2 */
+    /*Textos & icones & Backgorund*/
 .corpo-2{
     background-color:#506FA9;
     height: 1024px;
@@ -94,6 +98,7 @@ h1.text-corpo-2{
 
 
 /* Rodapé */
+    /*Textos & icones & Backgorund*/
 .rodape{
     background-color: #E9E9E9;
 }
@@ -118,8 +123,22 @@ a.footer-text:hover{
     color: #887b7b;;
 }
 
-/*Responsividade dos Textos*/
+/*Responsividade - Ajustes de posicionamento*/
+@media (max-width:1440px){
+    #brand-nav{
+        margin-left:10%;
+    }
+    #menu-nav{
+        margin-right:10%;
+    }
+}
 @media (max-width:991.9px) {
+
+    /* Nav Bar */
+    #brand-nav{
+        margin-right: 50%;
+    }
+
 
     /* Corpo 1 */
     .corpo-1{
@@ -168,4 +187,17 @@ a.footer-text:hover{
     }
 
     
+}
+
+@media (max-width:767.9px){
+    /* navBar */
+    #brand-nav{
+        margin-right:40% ;
+    }
+
+    /* Corpo 1 */
+    #img-corpo-1{
+    width: 285px;
+    height: 140px;
+    }   
 }
